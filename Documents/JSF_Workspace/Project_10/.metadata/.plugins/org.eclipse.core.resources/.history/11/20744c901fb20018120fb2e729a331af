@@ -1,0 +1,5 @@
+package com.me.bean;
+
+public class HelloBean {
+
+}

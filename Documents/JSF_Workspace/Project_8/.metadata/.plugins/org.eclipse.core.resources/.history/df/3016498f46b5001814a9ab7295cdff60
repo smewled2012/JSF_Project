@@ -1,0 +1,19 @@
+package com.seme.collection;
+
+public class MyArrayList {
+	
+	public static void main(String[] args) {
+		
+		ArrayList list = new ArrayList();
+		list.add("Semeneh");
+		list.add("Lisan");
+		list.add("Habtish");
+		
+		System.out.println("the size of the array list "+ list.size());
+		
+		for(String name:list) {
+			
+		}
+	}
+
+}

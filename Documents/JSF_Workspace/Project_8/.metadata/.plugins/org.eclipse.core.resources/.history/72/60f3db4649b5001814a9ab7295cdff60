@@ -1,0 +1,29 @@
+package com.seme.collection;
+
+import java.util.Iterator;
+
+
+class Book {  
+int id;  
+String name,author,publisher;  
+int quantity;  
+public Book(int id, String name, String author, String publisher, int quantity) {  
+    this.id = id;  
+    this.name = name;  
+    this.author = author;  
+    this.publisher = publisher;  
+    this.quantity = quantity;  
+}  
+}  
+
+
+public class MyArrayList {
+	
+	public static void main(String[] args) {
+		
+		Book book1 =new Book(1, "HOW TO WIN ", "Seme", "Mega Publisher", 10);
+		
+		System.out.println("the Book Deatil is: "+ book1.author);
+	}
+
+}

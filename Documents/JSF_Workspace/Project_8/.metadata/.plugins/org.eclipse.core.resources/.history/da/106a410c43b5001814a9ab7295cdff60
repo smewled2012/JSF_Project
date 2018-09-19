@@ -1,0 +1,14 @@
+package com.seme.collection;
+
+import java.io.*;
+import java.util.*;  
+
+public class ArrayList {
+
+	public static void main(String[] args) {
+		// ArrayList<String> list = new ArrayList<String>();
+		 ArrayList list=new ArrayList();
+		list.add("Semeneh");
+	}
+
+}

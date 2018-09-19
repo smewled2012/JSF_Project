@@ -1,0 +1,16 @@
+2018-09-04 18:44:57,651 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-04 18:57:02,725 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.semJsf:firstProject:0.0.1-SNAPSHOT @ C:\Users\smewl\Documents\JSF_Workspace\Ptoject_1\firstProject\pom.xml.
+2018-09-04 18:57:02,725 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.semJsf:firstProject:0.0.1-SNAPSHOT @ C:\Users\smewl\Documents\JSF_Workspace\Ptoject_1\firstProject\pom.xml.
+2018-09-04 18:57:03,751 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-04 18:57:03,757 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-04 18:57:03,759 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-04 18:57:03,761 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smewl\Documents\JSF_Workspace\Ptoject_1\firstProject\src\test\resources
+2018-09-04 18:57:05,262 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-04 18:57:05,271 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-04 18:57:05,786 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-04 18:57:05,788 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.semJsf:firstProject:0.0.1-SNAPSHOT @ C:\Users\smewl\Documents\JSF_Workspace\Ptoject_1\firstProject\pom.xml.
+2018-09-04 18:57:05,788 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smewl\Documents\JSF_Workspace\Ptoject_1\firstProject\src\test\resources
+2018-09-04 18:57:06,817 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-04 18:57:06,819 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-04 18:57:06,820 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-04 18:57:06,821 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smewl\Documents\JSF_Workspace\Ptoject_1\firstProject\src\test\resources

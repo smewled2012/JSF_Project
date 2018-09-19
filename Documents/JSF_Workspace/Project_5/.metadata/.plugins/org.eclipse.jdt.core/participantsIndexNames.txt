@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+C:\Users\smewl\Documents\JSF_Workspace\Project_5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\425545098.index
+\FirstJSF\src\main\resources
+C:\Users\smewl\Documents\JSF_Workspace\Project_5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3121990467.index
+\UserLoginJSF\src
