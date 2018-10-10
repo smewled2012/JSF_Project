@@ -1,0 +1,24 @@
+package com.example.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.example.repository.EmployeeRepository;
+
+public class EmployeeDAO {
+	
+	@Autowired
+	EmployeeRepository employeeRepository;
+	
+	
+	// save an Employee 
+	
+	
+	// get list of the employee 
+	
+	
+	// get an employee by id
+	
+	
+	// delete an employee 
+
+}

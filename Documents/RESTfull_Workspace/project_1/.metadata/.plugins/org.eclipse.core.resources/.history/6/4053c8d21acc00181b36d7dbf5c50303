@@ -1,0 +1,32 @@
+package com.example.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.MediaType;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.dao.EmployeeDAO;
+
+@RestController 
+public class MainRestController {
+	
+// request the first mapping 
+	
+	@Autowired
+	private EmployeeDAO employeeDAO;
+	
+	@RequestMapping("/")
+	@ResponseBody
+	public String welcome() {
+		return "Welcome to RestTemplate Example";  
+	}
+	
+	//URL 
+	
+	@RequestMapping(value = "/employees", method= RequestMethod.GET, 
+			produces = {MediaType.APPLICATION_JSON_VALUE,MediaType.APPLICATION_ATOM_XML_VALUE})
+	
+
+}
